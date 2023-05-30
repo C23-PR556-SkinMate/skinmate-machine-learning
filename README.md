@@ -1,1 +1,1 @@
-# Skinmate-machine-learning
+# skinmate-machine-learning
