@@ -88,11 +88,6 @@ You don't need to install anything since its written in Google Colab which is a 
 # Built With
 Tensorflow Keras - The AI framework used <br><br>
 
-# Authors
-- Ardanisa Rachma
-- Fathiah Mubina
-- Samuel Aditya C <br><br>
-
 # Sources
 ACNES (JERAWAT)
 - https://www.siloamhospitals.com/en/informasi-siloam/artikel/kenali-penyebab-munculnya-jerawat-dan-cara-mengatasinya#mcetoc_1gvlan1h74of
@@ -113,4 +108,10 @@ WRINKLES (KERUTAN)
 - https://hellosehat.com/penyakit-kulit/kulit-lainnya/penuaan-kulit/
 - https://www.alodokter.com/inilah-6-cara-menghilangkan-kerutan-di-wajah-secara-alami
 - https://www.dream.co.id/beauty/ketahui-perbedaan-fine-lines-dan-wrinkles-serta-cara-mengatasinya-210130v.html
-- https://www.suara.com/lifestyle/2022/01/08/164508/perawatan-anti-wrinkle-adalah-solusi-awet-muda-apa-bedanya-dengan-perawatan-anti-penuaan 
+- https://www.suara.com/lifestyle/2022/01/08/164508/perawatan-anti-wrinkle-adalah-solusi-awet-muda-apa-bedanya-dengan-perawatan-anti-penuaan
+<br><br>
+
+# Authors
+- Ardanisa Rachma
+- Fathiah Mubina
+- Samuel Aditya C
