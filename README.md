@@ -18,6 +18,10 @@ Developing an accurate and efficient machine learning model for facial skin heal
 
 <br>
 
+# Model Architecture (CNN method’s)
+![Infra](https://i.imgur.com/8uvlK6p.jpg)
+<br><br>
+
 # Final Model
     ├── upload\ test
         └──  Probabilities
@@ -56,7 +60,7 @@ We also create additional datasets by scrapping data from the web. Here's our da
 | Datasets | Directories | Files |
 | ----------- | ----------- | ----------- |
 Skincare Products | dailyCare | 48 |
-| | skinTreatment | 55 |
+| | skinTreatment | 48 | 55 |
 Articles |  | 4
 
 <br>
@@ -69,6 +73,11 @@ For this model, we use Convolutional Neural Networks and reach accuracy <br>
 | Validation Accuracy | 90.50% |
 
 <br>
+
+# Accuracy chart
+![Infra](https://i.imgur.com/6GuDe2Z.jpg)
+![Infra](https://i.imgur.com/WuZA4wE.jpg)
+<br><br>
 
 # Prequisites
 You don't need to install anything since its written in Google Colab which is a cloud service
