@@ -1,5 +1,5 @@
 # skinmate-machine-learning
-## Facial-skin Problem Detection
+**Facial-skin Problem Detection** <br>
 Developing an accurate and efficient machine learning model for facial skin health detection which consists of multiple problems such as acnes, blackheads, dark spots, and wrinkles. <br><br>
 
 # Dataset Structures
@@ -36,7 +36,8 @@ https://www.kaggle.com/datasets/mohit335448/ageing-dataset<br>
 https://www.kaggle.com/datasets/syllaayukusumahati/datasett
 - Wrinkles: <br>
 https://www.kaggle.com/datasets/mohit335448/ageing-dataset <br>
-The dataset contains 1000 images of acne, dark spots, wrinkles, and blackheads <br>
+
+The dataset contains 1000 images of acne, dark spots, wrinkles, and blackheads <br><br>
 
 | Datasets | Directories | Files |
 | ----------- | ----------- | ----------- |
