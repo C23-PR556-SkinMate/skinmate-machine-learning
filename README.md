@@ -52,6 +52,15 @@ The dataset contains 1000 images of acne, dark spots, wrinkles, and blackheads <
 
 <br>
 
+We also create additional datasets by scrapping data from the web. Here's our dataset structure
+| Datasets | Directories | Files |
+| ----------- | ----------- | ----------- |
+Skincare Products | dailyCare | 48 |
+| | skinTreatment | 48 | 55 |
+Articles |  | 4
+
+<br>
+
 For this model, we use Convolutional Neural Networks and reach accuracy <br>
 
 | Type | Accuracy |
@@ -73,4 +82,26 @@ Tensorflow Keras - The AI framework used <br><br>
 # Authors
 - Ardanisa Rachma
 - Fathiah Mubina
-- Samuel Aditya C
+- Samuel Aditya C <br><br>
+
+# Sources
+ACNES (JERAWAT)
+- https://www.siloamhospitals.com/en/informasi-siloam/artikel/kenali-penyebab-munculnya-jerawat-dan-cara-mengatasinya#mcetoc_1gvlan1h74of
+- https://www.halodoc.com/kesehatan/jerawat
+- https://www.mitrakeluarga.com/artikel/artikel-kesehatan/cara-mengatasi-jerawat-mengatasi-jerawat-dengan-benar 
+
+BLACKHEADS (KOMEDO)
+- https://doktersehat.com/penyakit-a-z/blackhead-adalah-komedo-hitam/
+- https://hellosehat.com/penyakit-kulit/jerawat/komedo-hitam/
+- https://www.alodokter.com/kenali-penyebab-dan-cara-mengatasi-blackhead 
+
+DARK SPOTS (NODA HITAM)
+- https://www.halodoc.com/artikel/6-cara-ampuh-untuk-menghilangkan-dark-spot-di-wajah
+- https://mylife.id/dark-spot-adalah/
+- https://www.halodoc.com/artikel/6-cara-ampuh-untuk-menghilangkan-dark-spot-di-wajah 
+
+WRINKLES (KERUTAN)
+- https://hellosehat.com/penyakit-kulit/kulit-lainnya/penuaan-kulit/
+- https://www.alodokter.com/inilah-6-cara-menghilangkan-kerutan-di-wajah-secara-alami
+- https://www.dream.co.id/beauty/ketahui-perbedaan-fine-lines-dan-wrinkles-serta-cara-mengatasinya-210130v.html
+- https://www.suara.com/lifestyle/2022/01/08/164508/perawatan-anti-wrinkle-adalah-solusi-awet-muda-apa-bedanya-dengan-perawatan-anti-penuaan 
