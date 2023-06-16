@@ -60,7 +60,7 @@ We also create additional datasets by scrapping data from the web. Here's our da
 | Datasets | Directories | Files |
 | ----------- | ----------- | ----------- |
 Skincare Products | dailyCare | 48 |
-| | skinTreatment | 48 | 55 |
+| | skinTreatment | 55 |
 Articles |  | 4
 
 <br>
